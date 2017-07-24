@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Projects\AndroidStudioProjects\MarvelProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e90e1d0ed1a38e01381488bc28b4848df6080589">
+        <dex dex="C:\Projects\AndroidStudioProjects\MarvelProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cb667ef93e961199cfa6e2bd188a0de6eea33421\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\AndroidStudioProjects\MarvelProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Projects\AndroidStudioProjects\MarvelProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9bb8534e378bf5838a56b2a19290d1ca2bdd50b4\classes.dex" />
+    </item>
+
+</items>

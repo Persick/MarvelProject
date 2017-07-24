@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarvelProject</string>
+    <string name="no_connection_to_internet">Sorry, no internet, no comics!</string>
+    <string name="loading_json_title">Please, wait!</string>
+    <string name="loading_json_message">Loading your comics…</string>
+    <string name="change_dates">No comics these days. Please, turn back and change dates!</string>
+    <string name="something_wrong">Something\'s going wrong…</string>
+</resources>
